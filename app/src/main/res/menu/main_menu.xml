@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/course"
+        android:title="Курс"
+        />
+    <item
+        android:id="@+id/organization"
+        android:title="Организация"
+        />
+    <item
+        android:id="@+id/licenze"
+        android:title="Лицензия"/>
+</menu>
